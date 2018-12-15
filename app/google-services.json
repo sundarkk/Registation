@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "892185719826",
+    "firebase_url": "https://registation-35659.firebaseio.com",
+    "project_id": "registation-35659",
+    "storage_bucket": "registation-35659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892185719826:android:bd3472c21eafae11",
+        "android_client_info": {
+          "package_name": "sundarchaupal.registation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892185719826-3nehucjepp4ik1v4r75c7d9dhkeeb750.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sundarchaupal.registation",
+            "certificate_hash": "cf08e9c80c4797a07ad89be2084f43a6edd2804c"
+          }
+        },
+        {
+          "client_id": "892185719826-992d6valo3fq92mdk68lfmtssi22is0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEiKnS2sfRvzkHrTBxVYrlbR0wZJjlG28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892185719826-992d6valo3fq92mdk68lfmtssi22is0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
